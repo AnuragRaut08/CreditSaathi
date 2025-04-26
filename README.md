@@ -105,7 +105,7 @@ anuragtraut2003@gmail.com
 ---
 
 ## 📬 Contact
-- GitHub Profile: [Your GitHub Username](https://github.com/AnuragRaut08)
+- GitHub Profile: [AnuragRaut08](https://github.com/AnuragRaut08)
 
 ```
 
